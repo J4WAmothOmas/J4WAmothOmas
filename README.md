@@ -2,11 +2,11 @@
 
 > Memorable developer positioning.
 
-**Theme:** Aurora · **Style:** Creative · **Agent:** Full-Stack Engineer
+**Objective:** Code.
 
 ## Header
 > Editing this section in the inspector.
-Hi, I'm **J4WAmothOmas**. This README is tuned for **personal brand** with a Aurora visual system.
+Hi, I'm **J4WAmothOmas (Amoth)**. This README is made for **appreciating reading about me a little more ;)**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
