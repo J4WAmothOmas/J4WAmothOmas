@@ -1,29 +1,9 @@
-# J4WAmothOmas
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB&mode=light" /> <img src="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB" alt="Hero" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB" alt="Wordmark" /> </picture> </p>
+Salut, moi c'est Amoth
 
-> Memorable developer positioning.
+Développeur, basé en France. Je bricole des trucs web, mobile et jeux vidéo, souvent en dehors des heures de bureau.
 
-**Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
-
-## Header
-> Editing this section in the inspector.
-Hi, I'm **J4WAmothOmas**. This README is tuned for **personal brand** with a Neon visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas hero section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas 3d wordmark section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/portrait?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas ascii portrait section" />
-  </picture>
-</p>
-
-<!-- Sections: Header -->
+Front-end web (React, Vite, Tailwind)
+Applis mobiles
+Unity et C#
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB&mode=light" /> <img src="https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB" alt="Language stack" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB" alt="Contribution activity" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB&mode=light" /> <img src="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB" alt="Highlights" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB&mode=light" /> <img src="https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB" alt="Projects" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB&mode=light" /> <img src="https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=sunset&nw=XXw4unfViB2CtvSB" alt="Social" /> </picture> </p>
