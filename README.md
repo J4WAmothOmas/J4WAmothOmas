@@ -15,8 +15,8 @@ Hi, I'm **J4WAmothOmas (Amoth)**. This README is made for **appreciating reading
     <img src="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas 3d wordmark section" />
   </picture>
 </p>
-## Highlights
-Yep.. That low participation.
+Presentation, I guess.
+Yep.. That much participation. Impressed ? 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
