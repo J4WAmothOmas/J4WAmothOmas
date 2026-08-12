@@ -16,7 +16,7 @@ Hi, I'm **J4WAmothOmas (Amoth)**. This README is made for **appreciating reading
   </picture>
 </p>
 ## Highlights
-Value-prop feature cards drawn from the profile.
+Yep.. That low participation.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
