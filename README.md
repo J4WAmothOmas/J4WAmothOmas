@@ -1,1 +1,7 @@
 ![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=sunset&style=aura)
+![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=J4WAmothOmas&theme=sunset&style=aura)
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=sunset&style=aura)
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=sunset&style=aura)
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=sunset&style=aura)
+![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=sunset&style=aura)
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=sunset&style=aura)
