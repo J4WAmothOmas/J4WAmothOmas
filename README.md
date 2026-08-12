@@ -1,4 +1,4 @@
-# J4WAmothOmas
+[[# J4WAmothOmas
 
 > Memorable developer positioning.
 
@@ -70,4 +70,4 @@ Contact and social links will appear here.
   </picture>
 </p>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Highlights, Heatmap, Connect -->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Highlights, Heatmap, Connect -->](https://www.gitskins.com/showcase/J4WAmothOmas?skin=renaissance)](https://www.gitskins.com/showcase/J4WAmothOmas?skin=renaissance)
