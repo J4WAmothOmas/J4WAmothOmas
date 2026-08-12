@@ -1,11 +1,7 @@
 # J4WAmothOmas
-
-> Memorable developer positioning.
-
 **Objective:** Code.
 
 ## Header
-> Editing this section in the inspector.
 Hi, I'm **J4WAmothOmas (Amoth)**. This README is made for **appreciating reading about me a little more ;)**.
 <p align="center">
   <picture>
