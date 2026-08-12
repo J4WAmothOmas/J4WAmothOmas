@@ -1,65 +1,77 @@
-<div align="center">
+# J4WAmothOmas
 
-<h3><code>j4wamothomas@github ~ $ ./portfolio.sh</code></h3>
+> Memorable developer positioning.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=j4wamothomas&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=j4wamothomas&theme=github-dark&style=terminal&mode=dark" width="100%" alt="j4wamothomas wordmark" />
-</picture>
+**Theme:** Aurora · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-<p><b>Developer building and sharing work on GitHub.</b></p>
+## Header
+> Editing this section in the inspector.
+Hi, I'm **J4WAmothOmas**. This README is tuned for **personal brand** with a Aurora visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas hero section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas 3d wordmark section" />
+  </picture>
+</p>
+## Highlights
+Value-prop feature cards drawn from the profile.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas highlights section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=aurora&style=jet&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=aurora&style=jet&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas heatmap section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **Aurora** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas social section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/portrait?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas ascii portrait section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas stack section" />
+  </picture>
+</p>
 
-</div>
-
----
-
-## `> whoami`
-
-Developer building and sharing work on GitHub.
-
-```bash
-NAME          = j4wamothomas
-ROLE          = Frontend or full-stack engineer
-FOCUS         = HTML | CSS
-REPOSITORIES  = 4
-CONTRIBUTIONS = 8
-STATUS        = Building | Learning | Shipping
-
-```
-
----
-
-## `> ls /tech-stack`
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=j4wamothomas&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=j4wamothomas&theme=github-dark&style=terminal&mode=dark" width="100%" alt="j4wamothomas stack" />
-</picture>
-
----
-
-## `> git stats --global`
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=j4wamothomas&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=j4wamothomas&theme=github-dark&style=terminal&mode=dark" width="100%" alt="j4wamothomas stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=j4wamothomas&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=j4wamothomas&theme=github-dark&style=terminal&mode=dark" width="100%" alt="j4wamothomas heatmap" />
-</picture>
-
----
-
-## `> ping me`
-
-<div align="center">
-
-<a href="https://github.com/j4wamothomas">GitHub</a>
-
-</div>
-
----
-
-<p align="center"><sub>j4wamothomas · Terminal portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- Sections: Header, Highlights, Heatmap, GitHub Stats, Projects, Connect, Skills -->
