@@ -1,89 +1,73 @@
 # J4WAmothOmas
-**Objective:** Code.
+
+> Memorable developer positioning.
+
+**Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
-Hi, I'm **J4WAmothOmas (Amoth)**. This README is made for **appreciating reading about me a little more ;)**.
+> Editing this section in the inspector.
+Hi, I'm **J4WAmothOmas**. This README is tuned for **personal brand** with a Neon visual system.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas hero section" />
   </picture>
 </p>
+## About Me
+Shapes the short profile story and positioning.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/wordmark?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas 3d wordmark section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas about section" />
   </picture>
 </p>
-
- ## Presentation, I guess
-
-Yep.. That much participation. Impressed ? 
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas highlights section" />
-  </picture>
-</p>
-
- ## Heatmap
-
-I know, those little green squares are impressive, dont't tell ;)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=aurora&style=jet&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=aurora&style=jet&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas heatmap section" />
-  </picture>
-</p>
-
- ## Heatmap
-
-Well, enough Jokes, reality comes back.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas stats section" />
-  </picture>
-</p>
-
- ## Projects
-
-FINALLY SOMETHING FULLFIL - well.. Next time :p
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas projects section" />
-  </picture>
-</p>
-
-## Connect
-
-Contact and social links will appear here.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas social section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/portrait?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas ascii portrait section" />
-  </picture>
-</p>
-
 ## Skills
-
-You could consider that I'm like.. Building skills 🗿
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=aurora&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas stack section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **Neon** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas projects section" />
+  </picture>
+</p>
+## Highlights
+Value-prop feature cards drawn from the profile.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/highlights?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas highlights section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas heatmap section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=J4WAmothOmas&theme=neon&nw=XXw4unfViB2CtvSB" alt="J4WAmothOmas social section" />
   </picture>
 </p>
 
-<!-- PS: Effectivement, je n'ai pas le GitHub le plus rempli, mais je dois bien avoir 2-3 repos privés avec des commits non ?-->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Highlights, Heatmap, Connect -->
